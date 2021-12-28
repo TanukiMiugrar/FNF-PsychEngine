@@ -418,7 +418,11 @@ class PlayState extends MusicBeatState
 					stageCurtains.updateHitbox();
 					add(stageCurtains);
 				}
-
+				
+				case 'wiik1d': //Week 1
+				var wiik1d:BGSprite = new BGSprite('wiik1d', -125, -200, 0.9, 0.9);
+				add(wiik1d);
+				
 			case 'spooky': //Week 2
 				if(!ClientPrefs.lowQuality) {
 					halloweenBG = new BGSprite('halloween_bg', -200, -100, ['halloweem bg0', 'halloweem bg lightning strike']);
