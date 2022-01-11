@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"expression": "ntkangg",
+			"text": "wtf",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "nuki"
+		},
+		{
+			"expression": "talk",
+			"text": "beep bop",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bftalk"
+		},
+		{
+			"expression": "ntknormal",
+			"text": "pfft what in the world r yo",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nuki"
+		},
+		{
+			"expression": "talk",
+			"text": "bapa bap  ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bftalk"
+		},
+		{
+			"expression": "ntknormal",
+			"text": "oh i see",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nuki"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nuki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well what yo want lil dude"
+		},
+		{
+			"expression": "talking",
+			"text": "d",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bftalk"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bftalk",
+			"boxState": "normal",
+			"expression": "talking",
+			"text": "rapbattle lol"
+		},
+		{
+			"expression": "ntknormal",
+			"text": "ok but how it works",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nuki"
+		},
+		{
+			"expression": "talking",
+			"text": "*explains the fnf lore*",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bftalk"
+		},
+		{
+			"expression": "ntkangg",
+			"text": "uhhhhhhhhh",
+			"boxState": "normal",
+			"speed": 0.07,
+			"portrait": "nuki"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nuki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok i think i just need to make the song harder"
+		},
+		{
+			"expression": "talk",
+			"text": "d",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nuki",
+			"boxState": "normal",
+			"expression": "ntknormal",
+			"text": "ok lets funk "
+		},
+		{
+			"expression": "happ",
+			"text": "aye",
+			"boxState": "normal",
+			"speed": 0.005,
+			"portrait": "gftalk"
+		}
+	]
+}

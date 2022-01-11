@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"expression": "shock",
+			"text": "bep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bftalk"
+		},
+		{
+			"expression": "shock",
+			"text": "WHAT",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gftalk"
+		},
+		{
+			"expression": "ntkwar",
+			"text": "ok",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "nuki"
+		},
+		{
+			"expression": "ntkwar",
+			"text": "you crossed the line bud",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "nuki"
+		},
+		{
+			"expression": "ntkwar",
+			"text": "now ill  pew pew yo",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "nuki"
+		},
+		{
+			"expression": "confused",
+			"text": "bapa  ba",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bftalk"
+		},
+		{
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gftalk"
+		},
+		{
+			"expression": "ntkwar",
+			"text": "d",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nuki"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nuki",
+			"boxState": "normal",
+			"expression": "ntkangg",
+			"text": ""
+		},
+		{
+			"expression": "ntkwar",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nuki"
+		},
+		{
+			"expression": "ntkwar",
+			"text": "big shot",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "nuki"
+		}
+	]
+}

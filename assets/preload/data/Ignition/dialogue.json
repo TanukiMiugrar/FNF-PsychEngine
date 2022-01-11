@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "yee",
+			"boxState": "normal",
+			"speed": 0.01,
+			"portrait": "bftalk"
+		},
+		{
+			"expression": "talking",
+			"text": "(now is the part you get angg)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bftalk"
+		},
+		{
+			"expression": "ntknormal",
+			"text": "(oh ok)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nuki"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nuki",
+			"boxState": "normal",
+			"expression": "ntknormal",
+			"text": "ahem"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nuki",
+			"boxState": "normal",
+			"expression": "ntkangg",
+			"text": "*tanuki angry bottom text*"
+		},
+		{
+			"expression": "ntknormal",
+			"text": "you should shut the fuck up you stupid bitch",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nuki"
+		},
+		{
+			"expression": "ntknormal",
+			"text": "becoz",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nuki"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nuki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uhhhhhhhhhh"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nuki",
+			"boxState": "normal",
+			"expression": "ntkangg",
+			"text": "idk "
+		},
+		{
+			"expression": "ntkangg",
+			"text": "y",
+			"boxState": "normal",
+			"speed": 0.0999999999999999,
+			"portrait": "nuki"
+		},
+		{
+			"expression": "confused",
+			"text": "bep ba po",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bftalk"
+		},
+		{
+			"expression": "confused",
+			"text": "oh no ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gftalk"
+		},
+		{
+			"expression": "talk",
+			"text": "(now its the part that we start singin)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gftalk"
+		},
+		{
+			"expression": "talk",
+			"text": "(erp)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nuki"
+		},
+		{
+			"expression": "ntknormal",
+			"text": "ok",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nuki"
+		},
+		{
+			"expression": "talking",
+			"text": "bap",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bftalk"
+		}
+	]
+}
