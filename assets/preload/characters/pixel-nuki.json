@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-123,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "pixel nuki idle"
+		},
+		{
+			"offsets": [
+				-132,
+				-141
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pixel nuki up"
+		},
+		{
+			"offsets": [
+				-137,
+				-139
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pixel nuki right"
+		},
+		{
+			"offsets": [
+				-109,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pixel nuki left"
+		},
+		{
+			"offsets": [
+				-111,
+				-141
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pixel nuki down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/TANUKI_PIXEL",
+	"position": [
+		40,
+		290
+	],
+	"healthicon": "nook_supremacy",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		250,
+		11
+	],
+	"camera_position": [
+		-200,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 5
+}

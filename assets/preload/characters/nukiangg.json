@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				425,
+				120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "tanuki anggy"
+		},
+		{
+			"offsets": [
+				390,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "tanuki anggy down"
+		},
+		{
+			"offsets": [
+				310,
+				122
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "tanuki anggy right"
+		},
+		{
+			"offsets": [
+				372,
+				150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "tanuki anggy up"
+		},
+		{
+			"offsets": [
+				300,
+				119
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "shott",
+			"loop": false,
+			"name": "shott"
+		},
+		{
+			"offsets": [
+				450,
+				117
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "tanuki anggy left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tanuki-a",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nook_supremacy",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		255,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

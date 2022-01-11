@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				-60
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "rune idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				-41
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "rune up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-44
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rune left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "rune down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-58
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rune right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RUNE",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-rune",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		0,
+		80
+	],
+	"camera_position": [
+		-50,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}
